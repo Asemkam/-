@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">DBHomeWorkApp</string>
-    <string name="beer_name_hint">Марка пива</string>
+    <string name="app_name">HomeWorkApp</string>
+    <string name="beer_name_hint">Марка сигарет</string>
     <string name="add_beer_button_title">Добавить в базу данных</string>
     <string name="open_second_screen_button">Открыть второй экран</string>
-    <string name="saved_beer_list_title">Список сохранненных сортов пива</string>
+    <string name="saved_beer_list_title">Список сохранненных видов сигарет</string>
     <string name="clear_db_button_title">Очистить базу</string>
-    <string name="brewery_type_title">Тип пивоварни</string>
-    <string name="brewery_screen_title">Список пивоварен</string>
-    <string name="open_brewery_screen_button">Открыть экран со списком пивоварен</string>
+    <string name="brewery_type_title">Тип табачных</string>
+    <string name="brewery_screen_title">Список табачных</string>
+    <string name="open_brewery_screen_button">Открыть экран со списком табачных</string>
 </resources>

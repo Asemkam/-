@@ -12,7 +12,7 @@
         android:textSize="26sp"
         android:textStyle="bold"
         android:layout_margin="12dp"
-        tools:text="Какое-то пиво"
+        tools:text="Какие-то сигареты"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />

@@ -20,7 +20,7 @@ class BreweryActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_brewery)
-        val API_BASE_URL = "https://api.openbrewerydb.org/"
+        val API_BASE_URL = "https://jsonplaceholder.typicode.com"
 
         val httpClient = OkHttpClient.Builder()
 

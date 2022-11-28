@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="#A7E0E7">
+    android:background="#9C27B0">
 
     <TextView
         android:id="@+id/breweryTitle"
@@ -19,7 +19,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="Какая-то пивоварня" />
+        tools:text="Какая-то табачная" />
 
     <TextView
         android:id="@+id/breweryTypeTitle"
@@ -38,14 +38,14 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:layout_marginBottom="16dp"
-        android:textColor="@color/purple_500"
+        android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/breweryTypeTitle"
-        tools:text="Какой-то тип пивоварни" />
+        tools:text="Какой-то тип табачной" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
